@@ -19,6 +19,8 @@ test:
   database: sample_app_test
   pool: 5
   timeout: 5000
+  username: root
+  password: password
 
 production:
   adapter: mysql2
