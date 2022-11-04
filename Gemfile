@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 gem 'rails', '4.0.0'
+gem 'bootstrap-sass', '~>3.2.0.0'
 gem "paperclip", "~> 3.0"
 gem 'mysql2', '0.3.18'
 gem 'haml-rails'
